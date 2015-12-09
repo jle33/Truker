@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "cecs521"
+  },
+  "hostingPlanName": {
+    "value": "cecs521"
+  },
+  "siteLocation": {
+    "value": "West US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "b374bc48-097b-44de-b863-c75a77743a7f"
+  },
+  "resourceGroup": {
+    "value": "cecs521"
+  }
+}
